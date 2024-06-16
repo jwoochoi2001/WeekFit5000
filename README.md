@@ -37,7 +37,7 @@
 
 * '일주일 동안 5000 칼로리 이상을 운동하는 건강한 사람'이라는 의미 
 
-# 3.1 [첫화면]
+## 3.1 [첫화면]
 
 <img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 04 40" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/7e6bddd6-2e04-4045-aee0-56028bd5016a">
 
@@ -48,6 +48,35 @@
 * [정보 입력] 다이얼로그를 출력 시키는 [내 정보 입력] 버튼 존재
 
 * 입력창으로 이동하는 [입력 하기], 기록지로 이동하는 [나의 기록] 버튼들이 존재 
+
+## 3.1 [정보 입력] 다이얼로그 
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 03 54" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/285890bd-c34e-4041-9401-b7a0fd9e4033">
+
+* [목표 체중], [현재 체중], [나이]의 값을 받는 Text Field들이 존재
+
+* [성별]을 선택하는 세그먼트 컨트롤이 존재
+
+* [저장] 버튼 클릭 시 다이얼로그 값 출력
+
+* [뒤로 가기] 버튼 클릭 시 다이얼로그 즉시 종료
+
+## 3.2 다이얼로그 TextField 공백 시 경고 
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 05 09" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/4fb9556c-a5bf-44a5-bb63-9949912e85ed">
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 05 50" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/fa6e615f-8d8e-4827-8e9a-ad25cb7b74e8">
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 06 11" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/9a7a459b-0f01-4dba-8652-b0e14348ffb3">
+
+* TextField 공백 입력 후 [저장] 버튼 클릭 시 "(공백 TextField) 를 입력하세요. "라는 경고 출력
+
+## 3.2 다이얼로그 TextField 문자 입력 시 경고 
+
+<img  width="200" height="300" alt="스크린샷 2024-06-16 오후 4 10 08" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/64c478a2-e744-4b72-bd82-ca54dde1ca19">
+
+* "잘못된 입력입니다. 숫자를 입력하세요."라는 결고 출력
+
+
+
 
 
 
