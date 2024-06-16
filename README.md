@@ -79,6 +79,8 @@
 
 <img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 06 51" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/ab50311a-45cb-4d64-b666-71787815c660">
 
+* [첫화면]으로 이동하는 뒤로가기 버튼 존재
+
 * 운동들의 종류를 보여주는 [PickerView]가 존재
 
 * [PickerView] 이동 시 해당 운동과 관련된 [ImageView]도 같이 변경
@@ -96,6 +98,44 @@
 <img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 07 26" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/7f9ce2e3-5132-4888-8ee0-4be88fae51b8">
 
 * 확인 버튼 클릭시 [오늘의 운동] 화면에 유지
+
+## 3.9 [나의 기록]
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 10 40" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/16b3ab06-96cd-4759-9580-5a1a1df4c8b9">
+
+* [첫화면]으로 이동하는 뒤로가기 버튼 존재
+
+* [오늘 소비량]에 출력된 값을 저장하는 [나의 kcal 소비량] 존재
+
+* [나의 kcal 소비량]의 값들을 누적으로 저장하는 [총 누적량] 존재
+
+* [기록 삭제] 버튼 존재
+
+* [Finish] 버튼 존재
+
+## 3.10 [기록 삭제]
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 10 52" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/a643dcb0-717e-45fd-8660-d86ef66a20a5">
+
+* [삭제] 버튼 클릭시 [나의 kcal 소비량] 값 삭제
+
+* [취소] 버튼 클릭시 [나의 기록]으로 되돌아 감
+
+## 3.11 [Finish]
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 12 02" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/4f6d3417-5ee2-46ac-99b4-4c5b868a7131">
+
+<img width="200" height="300" alt="스크린샷 2024-06-16 오후 4 11 13" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/be0231ac-4fd5-47c1-ba90-72dd8d75ff4c">
+
+* [총 누적량] 값이 5,000 초과 시 "축하합니다! 당신의 노력이 성공을 만들었어요!" 라는 문구 [성공 문구] 출력
+
+* [총 누적량] 값이 5,000 미만 시 "아직이에요! 조금 더 힘을 내세요" 라는 문구 출력 후 확인 클릭 시 [나의 기록]으로 되돌아 감
+
+## 3.12 [성공 문구]
+
+<img  width="200" height="300" alt="스크린샷 2024-06-16 오후 4 12 13" src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/aeb23a8c-a8c5-4bb9-b601-2cffe6420a79">
+
+* 확인 버튼 클릭 시 [총 누적량], [나의 kcal 소비량], [오늘 소비량] 값을 모두 0으로 초기화 
 
 
 
