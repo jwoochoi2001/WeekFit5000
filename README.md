@@ -1,7 +1,11 @@
 # Week Fit 5000 
 2011083 최정우
 
-https://youtu.be/fgpe13-NIrk 
+0. 유튜브 먼저 보기 
+
+<a href="https://youtu.be/fgpe13-NIrk">
+  <img src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/da09f17b-fd7a-4950-b11a-3ade25f97860" alt="Week_Fit_jpg" width="200" height="200">
+</a>
 
 1. 개발 목적
 
