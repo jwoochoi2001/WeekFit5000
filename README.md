@@ -1,6 +1,7 @@
 # Week Fit 5000 
 2011083 최정우
 
+https://youtu.be/fgpe13-NIrk 
 
 1. 개발 목적
 
@@ -138,9 +139,13 @@
 
 * 확인 버튼 클릭 시 [총 누적량], [나의 kcal 소비량], [오늘 소비량] 값을 모두 0으로 초기화 
 
-4. 유튜브 영상 
+4. 유튜브 영상
 
-https://youtu.be/fgpe13-NIrk
+
+<a href="https://youtu.be/fgpe13-NIrk">
+  <img src="https://github.com/jwoochoi2001/WeekFit5000/assets/172946192/da09f17b-fd7a-4950-b11a-3ade25f97860" alt="Week_Fit_jpg" width="300" height="300">
+</a>
+
 
 
 
